@@ -1,5 +1,5 @@
 """
-First day of the "Avent of Code"
+First day of the "Advent of Code"
 
 Link : 
 https://adventofcode.com
