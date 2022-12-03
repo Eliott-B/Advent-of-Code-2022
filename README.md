@@ -1,8 +1,8 @@
 # Avent of Code
 
-## What is 'Avent of Code' ?
+## What is 'Advent of Code' ?
 
-Avent of Code is a programming advent calendar with puzzles to solve during the Christmas period.
+Advent of Code is a programming advent calendar with puzzles to solve during the Christmas period.
 
 ## About my reponse :
 
