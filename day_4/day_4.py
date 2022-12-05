@@ -43,7 +43,7 @@ def overlapping(file: list) -> int:
      
 
 input = []
-with open("input.txt") as f:
+with open("day_4/input.txt") as f:
     for i in f:
         l = i.strip()
         left, right = l.split(',')

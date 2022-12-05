@@ -76,7 +76,7 @@ def strat2(game: list) -> int:
     return total
         
 
-file = open_file("input.txt")
+file = open_file("day_2/input.txt")
 file.pop()
 print(point(file))
 print(strat2(file))

@@ -72,7 +72,7 @@ def sum_3(cal:list) -> int:
     return top3
         
 
-cal_list = get_calories("input.txt")
+cal_list = get_calories("day_1/input.txt")
 elfs = count_calories(cal_list)
 print("Le max est",find_max(elfs))
 print("Le top 3 est",sum_3(elfs))

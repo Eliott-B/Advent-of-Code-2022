@@ -86,7 +86,7 @@ def part2(chara: list) -> list:
     return output
 
 
-file = open_file("input.txt")
+file = open_file("day_3/input.txt")
 file.pop()
 chara = double_character(file)
 print(count_prio(chara))
